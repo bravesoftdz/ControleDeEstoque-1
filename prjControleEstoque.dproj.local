@@ -18,4 +18,16 @@
     <Transaction>2022/01/31 14:36:27.262,C:\Users\rafae\OneDrive\Pessoal\Documentos\Cursos\Repositorio\Delphi\ControleDeEstoque\UnitDM.pas=C:\Users\rafae\OneDrive\Pessoal\Documentos\Cursos\Repositorio\Delphi\ControleDeEstoque\Unit1.pas</Transaction>
     <Transaction>2022/01/31 14:36:27.262,C:\Users\rafae\OneDrive\Pessoal\Documentos\Cursos\Repositorio\Delphi\ControleDeEstoque\UnitDM.dfm=C:\Users\rafae\OneDrive\Pessoal\Documentos\Cursos\Repositorio\Delphi\ControleDeEstoque\Unit1.dfm</Transaction>
   </Transactions>
+  <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="UnitCadMovimentacao.pas"/>
+    <File Path="UnitCadMovimentacao.dfm"/>
+    <File Path="UnitCadProduto.pas"/>
+    <File Path="UnitCadProduto.dfm"/>
+    <File Path="UnitConsMovimentacao.pas"/>
+    <File Path="UnitConsMovimentacao.dfm"/>
+    <File Path="UnitDM.pas"/>
+    <File Path="UnitDM.dfm"/>
+    <File Path="UnitPrincipal.pas"/>
+    <File Path="UnitPrincipal.dfm"/>
+  </ProjectSortOrder>
 </BorlandProject>
