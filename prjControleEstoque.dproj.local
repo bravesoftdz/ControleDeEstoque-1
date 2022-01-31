@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/01/31 14:24:57.364,=C:\Users\rafae\OneDrive\Pessoal\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/31 14:25:39.521,C:\Users\rafae\OneDrive\Pessoal\Documentos\Cursos\Repositorio\Delphi\ControleDeEstoque\UnitPrincipal.dfm=C:\Users\rafae\OneDrive\Pessoal\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/01/31 14:25:39.521,C:\Users\rafae\OneDrive\Pessoal\Documentos\Cursos\Repositorio\Delphi\ControleDeEstoque\UnitPrincipal.pas=C:\Users\rafae\OneDrive\Pessoal\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/31 14:25:52.511,C:\Users\rafae\OneDrive\Pessoal\Documentos\Cursos\Repositorio\Delphi\ControleDeEstoque\prjControleEstoque.dproj=C:\Users\rafae\OneDrive\Pessoal\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
