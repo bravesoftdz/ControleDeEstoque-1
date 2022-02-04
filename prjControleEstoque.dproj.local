@@ -12,11 +12,14 @@
     <Transaction>2022/01/31 14:33:39.000.991,C:\Users\rafae\OneDrive\Pessoal\Documentos\Cursos\Repositorio\Delphi\ControleDeEstoque\Unit1.pas=C:\Users\rafae\OneDrive\Pessoal\Documentos\Cursos\Repositorio\Delphi\ControleDeEstoque\UnitCadMovimentacao.pas</Transaction>
     <Transaction>2022/01/31 14:33:39.000.991,C:\Users\rafae\OneDrive\Pessoal\Documentos\Cursos\Repositorio\Delphi\ControleDeEstoque\Unit1.dfm=C:\Users\rafae\OneDrive\Pessoal\Documentos\Cursos\Repositorio\Delphi\ControleDeEstoque\UnitCadMovimentacao.dfm</Transaction>
     <Transaction>2022/01/31 14:34:24.000.986,=C:\Users\rafae\OneDrive\Pessoal\Documentos\Cursos\Repositorio\Delphi\ControleDeEstoque\Unit1.pas</Transaction>
-    <Transaction>2022/01/31 14:35:07.000.316,C:\Users\rafae\OneDrive\Pessoal\Documentos\Cursos\Repositorio\Delphi\ControleDeEstoque\Unit1.dfm=C:\Users\rafae\OneDrive\Pessoal\Documentos\Cursos\Repositorio\Delphi\ControleDeEstoque\UnitConsMovimentacao.dfm</Transaction>
     <Transaction>2022/01/31 14:35:07.000.316,C:\Users\rafae\OneDrive\Pessoal\Documentos\Cursos\Repositorio\Delphi\ControleDeEstoque\Unit1.pas=C:\Users\rafae\OneDrive\Pessoal\Documentos\Cursos\Repositorio\Delphi\ControleDeEstoque\UnitConsMovimentacao.pas</Transaction>
+    <Transaction>2022/01/31 14:35:07.000.316,C:\Users\rafae\OneDrive\Pessoal\Documentos\Cursos\Repositorio\Delphi\ControleDeEstoque\Unit1.dfm=C:\Users\rafae\OneDrive\Pessoal\Documentos\Cursos\Repositorio\Delphi\ControleDeEstoque\UnitConsMovimentacao.dfm</Transaction>
     <Transaction>2022/01/31 14:36:14.000.169,=C:\Users\rafae\OneDrive\Pessoal\Documentos\Cursos\Repositorio\Delphi\ControleDeEstoque\Unit1.pas</Transaction>
-    <Transaction>2022/01/31 14:36:27.000.262,C:\Users\rafae\OneDrive\Pessoal\Documentos\Cursos\Repositorio\Delphi\ControleDeEstoque\Unit1.pas=C:\Users\rafae\OneDrive\Pessoal\Documentos\Cursos\Repositorio\Delphi\ControleDeEstoque\UnitDM.pas</Transaction>
     <Transaction>2022/01/31 14:36:27.000.262,C:\Users\rafae\OneDrive\Pessoal\Documentos\Cursos\Repositorio\Delphi\ControleDeEstoque\Unit1.dfm=C:\Users\rafae\OneDrive\Pessoal\Documentos\Cursos\Repositorio\Delphi\ControleDeEstoque\UnitDM.dfm</Transaction>
+    <Transaction>2022/01/31 14:36:27.000.262,C:\Users\rafae\OneDrive\Pessoal\Documentos\Cursos\Repositorio\Delphi\ControleDeEstoque\Unit1.pas=C:\Users\rafae\OneDrive\Pessoal\Documentos\Cursos\Repositorio\Delphi\ControleDeEstoque\UnitDM.pas</Transaction>
+    <Transaction>2022/02/04 16:13:11.000.877,=C:\Users\rafae\OneDrive\Pessoal\Documentos\Cursos\Repositorio\Delphi\ControleDeEstoque\Unit1.pas</Transaction>
+    <Transaction>2022/02/04 16:13:45.000.209,C:\Users\rafae\OneDrive\Pessoal\Documentos\Cursos\Repositorio\Delphi\ControleDeEstoque\Unit1.pas=C:\Users\rafae\OneDrive\Pessoal\Documentos\Cursos\Repositorio\Delphi\ControleDeEstoque\UnitTelaAvisos.pas</Transaction>
+    <Transaction>2022/02/04 16:19:28.000.122,C:\Users\rafae\OneDrive\Pessoal\Documentos\Cursos\Repositorio\Delphi\ControleDeEstoque\UnitTelaAvisos.pas=</Transaction>
   </Transactions>
 	<ProjectSortOrder AutoSort="0" SortType="0">
     <File Path="UnitCadMovimentacao.pas"/>

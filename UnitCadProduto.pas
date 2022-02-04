@@ -22,6 +22,7 @@ type
     DBGrid1: TDBGrid;
     BitBtn1: TBitBtn;
     procedure BitBtn1Click(Sender: TObject);
+    procedure FormShow(Sender: TObject);
   private
     { Private declarations }
   public
@@ -40,6 +41,11 @@ uses UnitDM;
 procedure TformCadProdutos.BitBtn1Click(Sender: TObject);
 begin
   formCadProdutos.Close;
+end;
+
+procedure TformCadProdutos.FormShow(Sender: TObject);
+begin
+  DM.tbProdutos.Refresh
 end;
 
 end.

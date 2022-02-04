@@ -10,8 +10,8 @@ uses
 type
   TformCadMovimentacao = class(TForm)
     Label1: TLabel;
-    DBComboBox1: TDBComboBox;
-    DBEdit1: TDBEdit;
+    cbxTipo: TDBComboBox;
+    edtHora: TDBEdit;
     DBEdit2: TDBEdit;
     DBMemo1: TDBMemo;
     Label2: TLabel;
@@ -21,8 +21,18 @@ type
     DBNavigator1: TDBNavigator;
     BitBtn1: TBitBtn;
     DBGrid1: TDBGrid;
+    Label6: TLabel;
+    DBNavigator2: TDBNavigator;
+    DBLookupComboBox1: TDBLookupComboBox;
+    DBEdit3: TDBEdit;
+    DBGrid2: TDBGrid;
+    Label7: TLabel;
+    Label8: TLabel;
+    Label9: TLabel;
+    lblTotalProdutos: TLabel;
     procedure BitBtn1Click(Sender: TObject);
     procedure DBNavigator1Click(Sender: TObject; Button: TNavigateBtn);
+    procedure FormShow(Sender: TObject);
   private
     { Private declarations }
   public
@@ -51,6 +61,11 @@ begin
       DM.tbMovimentacoes.FieldByName('dataHora').Value := Now;
     end;
 
+end;
+
+procedure TformCadMovimentacao.FormShow(Sender: TObject);
+begin
+  DM.calcularTotais ;
 end;
 
 end.
